@@ -30,6 +30,7 @@ markdown: kramdown
 theme: 
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 google_analytics: UA-141680467-1
 
 # Exclude from processing.
