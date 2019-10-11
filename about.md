@@ -110,10 +110,10 @@ In *ERAD 2010, Sibiu, Romania*, 2010.
 
 0. A. Protat, C. Klepp, V. Louf, W. Petersen, S. Alexander, A. Barros, **J. Leinonen**, and G. Mace.
 Why is satellite rainfall going south south of 40S and north of 40N? Part 2: The relationships
-between radar observables and drop size distribution parameters. *Journal of Geophysical Research: Atmospheres, 2019*. In review.
+between radar observables and drop size distribution parameters. *Journal of Geophysical Research: Atmospheres*, 2019. In review.
 0. A. Protat, C. Klepp, V. Louf, W. Petersen, S. Alexander, A. Barros, **J. Leinonen**, and G. Mace.
 Why is satellite rainfall going south south of 40S and north of 40N? Part 1: The latitudinal
-variability of drop size distribution properties. *Journal of Geophysical Research: Atmospheres, 2019*. In review.
+variability of drop size distribution properties. *Journal of Geophysical Research: Atmospheres*, 2019. In review.
 
 
 ## Presentations
