@@ -102,7 +102,7 @@ The Netherlands*, pages 586–593 (book of abstracts), 2018. doi:[10.18174/45453
 0. **J. Leinonen**, V. Chandrasekar, and D. Moisseev. A Bayesian algorithm for tangential deconvolution of weather radar images. In *ERAD 2012, Toulouse, France*, 2012. [http://www.meteo.fr/cic/meetings/2012/ERAD/extended_abs/DQ_210_ext_abs.pdf](http://www.meteo.fr/cic/meetings/2012/ERAD/extended_abs/DQ_210_ext_abs.pdf).
 0. A. von Lerber, D. Moisseev, **J. Leinonen**, J. Tyynelä, V. Chandrasekar, and M. Hallikainen.
 Modeling melting layer radar observations at GPM frequencies: comparison to measurements.
-In *International Geoscience & Remote Sensing Symposium 2011*, Vancouver, Canada , 2011.
+In *International Geoscience & Remote Sensing Symposium 2011*, Vancouver, British Columbia, Canada, 2011.
 doi:[10.1109/IGARSS.2011.6049721](https://doi.org/10.1109/IGARSS.2011.6049721). 
 0. **J. Leinonen** and D. Moisseev. Snowfall characterization with combined ground and space radar.
 In *ERAD 2010, Sibiu, Romania*, 2010. 
@@ -134,8 +134,7 @@ USA*, 2016.
 0. Localized analysis of cloud optical depth and droplet
 radius from MODIS observations. At *Asia Oceania Geosciences Society 12th Annual Meeting,
 Singapore*, 2015.
-0. Linking snowflake microphysics and radar scat-
-tering models. At *URSI Commission F Specialist Symposium on Microwave Remote Sensing of
+0. Linking snowflake microphysics and radar scattering models. At *URSI Commission F Specialist Symposium on Microwave Remote Sensing of
 the Earth, Oceans, and Atmosphere, Espoo, Finland*, 2013.
 0. GPM activities in Finland. At *5th International Workshop
 for GPM Ground Validation, Toronto, Ontario, Canada*, 2012.
@@ -154,8 +153,7 @@ Sensing Days, Helsinki, Finland*, 2009.
 
 0. From snowflake models to space-based radar retrievals of atmospheric ice. At *NASA Goddard
 Space Flight Center, Greenbelt, Maryland, USA*, Sep 2018
-0. Snowflake models for retrievals with multi-frequency radars. At *Pacific Northwest National Lab-
-oratory, Richland, Washington, USA*, Aug 2017
+0. Snowflake models for retrievals with multi-frequency radars. At *Pacific Northwest National Laboratory, Richland, Washington, USA*, Aug 2017
 0. Multi-frequency radars for cloud and precipitation science: the ”how”, ”why”, and ”what now”.
 At *Colorado State University, Fort Collins, Colorado, USA*, Apr 2017
 0. Improved CloudSat–MODIS cloud liquid water content retrieval. At *University of Cologne,
@@ -164,24 +162,20 @@ Cologne, Germany*, Nov 2016
 At *University of Cologne, Cologne, Germany*, Oct 2015
 0. Multi-frequency radar signatures of snowflakes.
 At *McGill University, Montreal, Quebec, Canada*, Nov 2014
-0. What can multi-frequency radars tell us about snowflake microstructure? At *University of Wis-
-consin, Madison, Wisconsin, USA*, Aug 2013
-0. What can multi-frequency radars tell us about snowflake microstructure? At *Jet Propulsion Lab-
-oratory, California Institute of Technology, Pasadena, California, USA*, Aug 2013
+0. What can multi-frequency radars tell us about snowflake microstructure? At *University of Wisconsin, Madison, Wisconsin, USA*, Aug 2013
+0. What can multi-frequency radars tell us about snowflake microstructure? At *Jet Propulsion Laboratory, California Institute of Technology, Pasadena, California, USA*, Aug 2013
 0. J. Leinonen. Inferring atmospheric vertical profiles from observations and vehicle responses. At
 Summer course: The Exploration of Mars, *Complutense University, Madrid, Spain*, Jul 2009
 {: reversed="reversed"}
 
 ### Posters presented
 
-0. **J. Leinonen** and A. von Lerber. Physical simulations of melting snowflakes with smoothed parti-
-cle hydrodynamics. At *2018 American Geophysical Union Fall Meeting, Washington, DC, USA*, 2018.
+0. **J. Leinonen** and A. von Lerber. Physical simulations of melting snowflakes with smoothed particle hydrodynamics. At *2018 American Geophysical Union Fall Meeting, Washington, DC, USA*, 2018.
 0. **J. Leinonen**, M. D. Lebsock, Sy. O. O., S. Tanelli, B. Dolan, R. J. Chase, Finlon. J. A.,
 D. Moisseev, and A. von Lerber. Triple-frequency radar retrievals of snowfall properties from
 the OLYMPEX/RADEX field campaign. At *2017 American Geophysical Union Fall Meeting,
 New Orleans, Louisiana, USA*, 2017.
-0. **J. Leinonen**, M. D. Lebsock, and G. L. Stephens. Combined CloudSat–Aqua–CALIPSO obser-
-vations of cloud liquid water. At *A-Train Symposium 2017, Pasadena, California, USA*, 2017.
+0. **J. Leinonen**, M. D. Lebsock, and G. L. Stephens. Combined CloudSat–Aqua–CALIPSO observations of cloud liquid water. At *A-Train Symposium 2017, Pasadena, California, USA*, 2017.
 0. **J. Leinonen**, M. D. Lebsock, and G. L. Stephens. The three-dimensional distribution of cloud
 liquid water observed by the A-Train. At *2016 American Geophysical Union Fall Meeting, San
 Francisco, California, USA*, 2016.
@@ -194,14 +188,11 @@ California, USA*, 2015.
 simulated from a global cloud system-resolving model. At *2014 CloudSat Science Team Meeting,
 Alexandria, Virginia, USA*, 2014.
 0. **J. Leinonen**, J. Tyynelä, D. Moisseev, and T. Nousiainen. Linking snowflake microphysics and
-radar scattering models. At *Fourth International Workshop on Space-based Snowfall Measure-
-ment, Mammoth Mountain, California, USA*, 2013.
-0. **J. Leinonen**, J. Tyynelä, D. Moisseev, and T. Nousiainen. Identification of non-spheroidal scat-
-tering effects from snowfall simulations and observations. At *Third International Workshop on
+radar scattering models. At *Fourth International Workshop on Space-based Snowfall Measurement, Mammoth Mountain, California, USA*, 2013.
+0. **J. Leinonen**, J. Tyynelä, D. Moisseev, and T. Nousiainen. Identification of non-spheroidal scattering effects from snowfall simulations and observations. At *Third International Workshop on
 Space-based Snowfall Measurement, Grainau, Germany*, 2011.
 0. **J. Leinonen**, T. Mäkinen, and A.-M. Harri. Pressure-based determination of Titan’s temperature
 profile using the Huygens HASI/PPI instrument. At *36th COSPAR Scientific Assembly, Beijing,
 China*, 2006.
-0. **J. Leinonen**, T. Mäkinen, and A.-M. Harri. The atmospheric temperature profile of Titan re-
-constructed from pressure data. At *4th International Planetary Probe Workshop, Pasadena,
+0. **J. Leinonen**, T. Mäkinen, and A.-M. Harri. The atmospheric temperature profile of Titan reconstructed from pressure data. At *4th International Planetary Probe Workshop, Pasadena,
 California, USA*, 2006.
