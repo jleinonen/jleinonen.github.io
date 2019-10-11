@@ -4,8 +4,6 @@ title: About
 permalink: /about.html
 ---
 
-# Jussi Leinonen
-
 <img src="{{site.url}}/assets/img/selfie.jpg">
 
 I've worked on atmospheric remote sensing &mdash; especially cloud and precipitation radar &mdash; since about 2008 and have recently started working on applications of machine learning to these problems. I hope this blog will help others put these methods into practice.
@@ -107,6 +105,16 @@ doi:[10.1109/IGARSS.2011.6049721](https://doi.org/10.1109/IGARSS.2011.6049721).
 0. **J. Leinonen** and D. Moisseev. Snowfall characterization with combined ground and space radar.
 In *ERAD 2010, Sibiu, Romania*, 2010. 
 {: reversed="reversed"}
+
+### Papers in review
+
+0. A. Protat, C. Klepp, V. Louf, W. Petersen, S. Alexander, A. Barros, **J. Leinonen**, and G. Mace.
+Why is satellite rainfall going south south of 40S and north of 40N? Part 2: The relationships
+between radar observables and drop size distribution parameters. *Journal of Geophysical Research: Atmospheres, 2019*. In review.
+0. A. Protat, C. Klepp, V. Louf, W. Petersen, S. Alexander, A. Barros, **J. Leinonen**, and G. Mace.
+Why is satellite rainfall going south south of 40S and north of 40N? Part 1: The latitudinal
+variability of drop size distribution properties. *Journal of Geophysical Research: Atmospheres, 2019*. In review.
+
 
 ## Presentations
 
