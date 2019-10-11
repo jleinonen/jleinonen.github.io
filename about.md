@@ -174,34 +174,34 @@ Summer course: The Exploration of Mars, *Complutense University, Madrid, Spain*,
 
 ### Posters presented
 
-0. J. Leinonen and A. von Lerber. Physical simulations of melting snowflakes with smoothed parti-
+0. **J. Leinonen** and A. von Lerber. Physical simulations of melting snowflakes with smoothed parti-
 cle hydrodynamics. At *2018 American Geophysical Union Fall Meeting, Washington, DC, USA*, 2018.
-0. J. Leinonen, M. D. Lebsock, Sy. O. O., S. Tanelli, B. Dolan, R. J. Chase, Finlon. J. A.,
+0. **J. Leinonen**, M. D. Lebsock, Sy. O. O., S. Tanelli, B. Dolan, R. J. Chase, Finlon. J. A.,
 D. Moisseev, and A. von Lerber. Triple-frequency radar retrievals of snowfall properties from
 the OLYMPEX/RADEX field campaign. At *2017 American Geophysical Union Fall Meeting,
 New Orleans, Louisiana, USA*, 2017.
-0. J. Leinonen, M. D. Lebsock, and G. L. Stephens. Combined CloudSat–Aqua–CALIPSO obser-
+0. **J. Leinonen**, M. D. Lebsock, and G. L. Stephens. Combined CloudSat–Aqua–CALIPSO obser-
 vations of cloud liquid water. At *A-Train Symposium 2017, Pasadena, California, USA*, 2017.
-0. J. Leinonen, M. D. Lebsock, and G. L. Stephens. The three-dimensional distribution of cloud
+0. **J. Leinonen**, M. D. Lebsock, and G. L. Stephens. The three-dimensional distribution of cloud
 liquid water observed by the A-Train. At *2016 American Geophysical Union Fall Meeting, San
 Francisco, California, USA*, 2016.
-0. J. Leinonen, D. Moisseev, W. Szyrmer, and S. Kneifel. Simulations of microwave scattering
+0. **J. Leinonen**, D. Moisseev, W. Szyrmer, and S. Kneifel. Simulations of microwave scattering
 using realistic snowflake models. At *8th IPWG & 5th IWSSM Joint Workshop, Bologna, Italy*, 2016.
-0. J. Leinonen, M. D. Lebsock, L. Oreopoulos, and N. Cho. Evaluation of interregional variability
+0. **J. Leinonen**, M. D. Lebsock, L. Oreopoulos, and N. Cho. Evaluation of interregional variability
 in MODIS cloud regimes. At *2015 American Geophysical Union Fall Meeting, San Francisco,
 California, USA*, 2015.
-0. J. Leinonen, M. D. Lebsock, K. Suzuki, H. Yashiro, and Y. Miyamoto. CloudSat observations
+0. **J. Leinonen**, M. D. Lebsock, K. Suzuki, H. Yashiro, and Y. Miyamoto. CloudSat observations
 simulated from a global cloud system-resolving model. At *2014 CloudSat Science Team Meeting,
 Alexandria, Virginia, USA*, 2014.
-0. J. Leinonen, J. Tyynelä, D. Moisseev, and T. Nousiainen. Linking snowflake microphysics and
+0. **J. Leinonen**, J. Tyynelä, D. Moisseev, and T. Nousiainen. Linking snowflake microphysics and
 radar scattering models. At *Fourth International Workshop on Space-based Snowfall Measure-
 ment, Mammoth Mountain, California, USA*, 2013.
-0. J. Leinonen, J. Tyynelä, D. Moisseev, and T. Nousiainen. Identification of non-spheroidal scat-
+0. **J. Leinonen**, J. Tyynelä, D. Moisseev, and T. Nousiainen. Identification of non-spheroidal scat-
 tering effects from snowfall simulations and observations. At *Third International Workshop on
 Space-based Snowfall Measurement, Grainau, Germany*, 2011.
-0. J. Leinonen, T. Mäkinen, and A.-M. Harri. Pressure-based determination of Titan’s temperature
+0. **J. Leinonen**, T. Mäkinen, and A.-M. Harri. Pressure-based determination of Titan’s temperature
 profile using the Huygens HASI/PPI instrument. At *36th COSPAR Scientific Assembly, Beijing,
 China*, 2006.
-0. J. Leinonen, T. Mäkinen, and A.-M. Harri. The atmospheric temperature profile of Titan re-
+0. **J. Leinonen**, T. Mäkinen, and A.-M. Harri. The atmospheric temperature profile of Titan re-
 constructed from pressure data. At *4th International Planetary Probe Workshop, Pasadena,
 California, USA*, 2006.
