@@ -148,10 +148,10 @@ Now we just need to define our targets to fit the WGAN-GP objectives and we'll b
 
 ## Results
 
-I trained both the traditional GAN and the WGAN-GP on the MNIST dataset, otherwise using the same settings. Here is an animation of the WGAN-GP converging:  
+I trained both the traditional GAN and the WGAN-GP on the MNIST dataset, otherwise using the same settings. Here is an animation of the WGAN-GP converging (real images on top, generated on the bottom):  
 ![MNIST WGAN-GP animation]({{site.url}}/assets/img/wgan_samples-ganelem2.gif)
 
-And this is with the regular GAN:  
+And this is the same with the regular GAN:  
 ![MNIST GAN animation]({{site.url}}/assets/img/gan_samples-ganelem2.gif)
 
-Not a huge difference in convergence here, and in both cases we see some systematic biases on each generation (e.g. some digits seem to be overrepresented and the line thickness tends to remain similar in a given batch). Maybe we aren't training long enough, or perhaps the network is not capable enough for the dataset (the dataset is very simple but so is the network). With harder problems, I've seen much bigger stability advantages with the WGAN-GP.
+Not a huge difference in convergence here, and in both cases we see some systematic biases on each generation (e.g. some digits seem to be overrepresented and the line thickness tends to remain similar in a given batch). Maybe I'm not training long enough, or perhaps the network is not capable enough for the dataset (the dataset is very simple but so is the network). With harder problems, I've seen much bigger stability advantages with the WGAN-GP.
