@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Elements of GANs, Part 2: Wasserstein GANs and the gradient penalty"
+title:  "The Elements of GANs, Part 2: Wasserstein GANs and the Gradient Penalty"
 date:   2019-11-07
 usemath: true
 ---
