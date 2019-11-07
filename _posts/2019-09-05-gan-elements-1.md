@@ -168,6 +168,6 @@ We call `build` and `fit_generator` from the [`train`](https://github.com/jleino
 ``` bash
 python train.py 
 ```
-or you can call the `train_gan` function manually from an interactive shell. A training that produces decent results should be runnable even on a CPU in a reasonable amount of time, but will probably be much faster on a GPU. You'll need NumPy, TensorFlow and Matplotlib to run it. It should output a figure called `gan_samples.png` in the `figures` directory, which should look like something like this: 
+or you can call the `train_gan` function manually from an interactive shell. A training that produces decent results should be runnable even on a CPU in a reasonable amount of time, but will probably be much faster on a GPU. You'll need NumPy, TensorFlow and Matplotlib to run it. It should output a figure called `gan_samples.png` in the `figures` directory, which should look like something like this:  
 ![MNIST GAN output]({{site.url}}/assets/img/basic_gan_samples.png)
 This is hardly perfect but the outputs have a nice resemblance to the real digits. Play around with the amount of training to see how the output changes. And feel free to adapt the code to your own applications! In later parts we'll explore GAN variants and some more advanced training techniques.
