@@ -16,6 +16,10 @@ I'm working with the [Environmental Remote Sensing Laboratory](https://www.epfl.
 
 ### Journal articles
 
+0. A. Protat, C. Klepp, V. Louf, W. Petersen, S. Alexander, A. Barros, **J. Leinonen**, and G. Mace.
+The Latitudinal Variability of Oceanic Rainfall Properties and Its Implication for Satellite Retrievals: 2. The Relationships Between Radar Observables and Drop Size Distribution Parameters. *Journal of Geophysical Research: Atmospheres*, **124**, 13312–13324, 2019. doi:[10.1029/2019JD031011](https://dx.doi.org/10.1029/2019JD031011)
+0. A. Protat, C. Klepp, V. Louf, W. Petersen, S. Alexander, A. Barros, **J. Leinonen**, and G. Mace.
+The Latitudinal Variability of Oceanic Rainfall Properties and Its Implication for Satellite Retrievals: 1. Drop Size Distribution Properties. *Journal of Geophysical Research: Atmospheres*, **124**, 13291–13311, 2019. doi:[10.1029/2019JD031010](https://dx.doi.org/10.1029/2019JD031010)
 0. F. Tridon, A. Battaglia, R. J. Chase, F. J. Turk, **J. Leinonen**, S. Kneifel, K. Mroz, J. Finlon,
 Bansemer A., S. Tanelli, A. J. Heymsfield, and S. W. Nesbitt. The microphysics of stratiform precipitation during OLYMPEx: compatibility between 3-frequency radar and airborne
 in situ observations. *Journal of Geophysical Research: Atmospheres*, **124**, 8764–8792, 2019.
@@ -100,7 +104,7 @@ The Netherlands*, pages 586–593 (book of abstracts), 2018. doi:[10.18174/45453
 0. **J. Leinonen**, V. Chandrasekar, and D. Moisseev. A Bayesian algorithm for tangential deconvolution of weather radar images. In *ERAD 2012, Toulouse, France*, 2012. [http://www.meteo.fr/cic/meetings/2012/ERAD/extended_abs/DQ_210_ext_abs.pdf](http://www.meteo.fr/cic/meetings/2012/ERAD/extended_abs/DQ_210_ext_abs.pdf).
 0. A. von Lerber, D. Moisseev, **J. Leinonen**, J. Tyynelä, V. Chandrasekar, and M. Hallikainen.
 Modeling melting layer radar observations at GPM frequencies: comparison to measurements.
-In *International Geoscience & Remote Sensing Symposium 2011*, Vancouver, British Columbia, Canada, 2011.
+In *International Geoscience & Remote Sensing Symposium 2011*, Vancouver, British Columbia, Canada, 2011, 2507–2510.
 doi:[10.1109/IGARSS.2011.6049721](https://doi.org/10.1109/IGARSS.2011.6049721). 
 0. **J. Leinonen** and D. Moisseev. Snowfall characterization with combined ground and space radar.
 In *ERAD 2010, Sibiu, Romania*, 2010. 
@@ -108,13 +112,9 @@ In *ERAD 2010, Sibiu, Romania*, 2010.
 
 ### Papers in review
 
-0. A. Protat, C. Klepp, V. Louf, W. Petersen, S. Alexander, A. Barros, **J. Leinonen**, and G. Mace.
-Why is satellite rainfall going south south of 40S and north of 40N? Part 2: The relationships
-between radar observables and drop size distribution parameters. *Journal of Geophysical Research: Atmospheres*, 2019. In review.
-0. A. Protat, C. Klepp, V. Louf, W. Petersen, S. Alexander, A. Barros, **J. Leinonen**, and G. Mace.
-Why is satellite rainfall going south south of 40S and north of 40N? Part 1: The latitudinal
-variability of drop size distribution properties. *Journal of Geophysical Research: Atmospheres*, 2019. In review.
-
+0. **J. Leinonen** and A. Berne. Unsupervised classification of snowflake images using a generative
+adversarial network and _K_-medoids classification. Atmospheric Measurement Techniques Discussions, 2019. doi:[10.5194/amt-2019-440](https://doi.org/10.5194/amt-2019-440). In review, preprint available.
+{: reversed="reversed"}
 
 ## Presentations
 
