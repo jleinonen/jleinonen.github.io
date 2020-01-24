@@ -97,7 +97,7 @@ profile from in situ pressure data: Application to Titan. *Planetary and Space S
 
 ### Conference papers
 
-0. **J. Leinonen**, T. Yuan, and A. Berne. Generative adversarial network for climate data field generation. In *9th International Workshop on Climate Informatics*, 2019. 
+0. **J. Leinonen**, T. Yuan, and A. Berne. Generative adversarial network for climate data field generation. In *9th International Workshop on Climate Informatics*, pages 37–42 (proceedings), 2019. doi:[10.5065/y82j-f154](https://doi.org/10.5065/y82j-f154)
 0. **J. Leinonen**, M. D. Lebsock, Sy. O. O., S. Tanelli, B. Dolan, R. J. Chase, and Finlon. J. A.
 Multi-frequency radar retrieval of snowfall microphysics. In *ERAD 2018, Ede-Wageningen,
 The Netherlands*, pages 586–593 (book of abstracts), 2018. doi:[10.18174/454537](https://doi.org/10.18174/454537).
