@@ -21,7 +21,7 @@ The Latitudinal Variability of Oceanic Rainfall Properties and Its Implication f
 0. A. Protat, C. Klepp, V. Louf, W. Petersen, S. Alexander, A. Barros, **J. Leinonen**, and G. Mace.
 The Latitudinal Variability of Oceanic Rainfall Properties and Its Implication for Satellite Retrievals: 1. Drop Size Distribution Properties. *Journal of Geophysical Research: Atmospheres*, **124**, 13291–13311, 2019. doi:[10.1029/2019JD031010](https://dx.doi.org/10.1029/2019JD031010)
 0. F. Tridon, A. Battaglia, R. J. Chase, F. J. Turk, **J. Leinonen**, S. Kneifel, K. Mroz, J. Finlon,
-Bansemer A., S. Tanelli, A. J. Heymsfield, and S. W. Nesbitt. TThe Microphysics of Stratiform Precipitation During OLYMPEX: Compatibility Between Triple‐Frequency Radar and Airborne In Situ Observations. *Journal of Geophysical Research: Atmospheres*, **124**, 8764–8792, 2019.
+Bansemer A., S. Tanelli, A. J. Heymsfield, and S. W. Nesbitt. The Microphysics of Stratiform Precipitation During OLYMPEX: Compatibility Between Triple‐Frequency Radar and Airborne In Situ Observations. *Journal of Geophysical Research: Atmospheres*, **124**, 8764–8792, 2019.
 doi:[10.1029/2018JD029858](https://doi.org/10.1029/2018JD029858)
 0. **J. Leinonen**, A. Guillaume, and T. Yuan. Reconstruction of cloud vertical structure with
 a generative adversarial network. *Geophysical Research Letters*, **46**, 7035–7044, 2019.
