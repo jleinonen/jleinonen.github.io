@@ -6,7 +6,7 @@ permalink: /about.html
 
 <img src="{{site.url}}/assets/img/selfie.jpg">
 
-I've worked on atmospheric remote sensing &mdash; especially cloud and precipitation radar &mdash; data problems since about 2008 and have recently started working on applications of machine learning to these problems. I hope this blog will help others put these methods into practice.
+I've worked on atmospheric science &mdash; especially cloud and precipitation radar &mdash; data problems since about 2008 and I'm currently working on applications of machine learning to these problems. I hope this blog will help others put these methods into practice.
 
 I'm working with the [Environmental Remote Sensing Laboratory](https://www.epfl.ch/labs/lte/) at the [Swiss Federal Institute of Technology in Lausanne (EPFL)](https://www.epfl.ch/).
 
@@ -97,17 +97,17 @@ profile from in situ pressure data: Application to Titan. *Planetary and Space S
 
 ### Conference papers
 
-0. **J. Leinonen**, T. Yuan, and A. Berne. Generative adversarial network for climate data field generation. In *9th International Workshop on Climate Informatics*, pages 37–42 (proceedings), 2019. doi:[10.5065/y82j-f154](https://doi.org/10.5065/y82j-f154)
+0. **J. Leinonen**, T. Yuan, and A. Berne. Generative adversarial network for climate data field generation. In *9th International Workshop on Climate Informatics, Paris, France*, pages 37–42 (proceedings), 2019. doi:[10.5065/y82j-f154](https://doi.org/10.5065/y82j-f154)
 0. **J. Leinonen**, M. D. Lebsock, Sy. O. O., S. Tanelli, B. Dolan, R. J. Chase, and Finlon. J. A.
 Multi-frequency radar retrieval of snowfall microphysics. In *ERAD 2018, Ede-Wageningen,
-The Netherlands*, pages 586–593 (book of abstracts), 2018. doi:[10.18174/454537](https://doi.org/10.18174/454537).
-0. **J. Leinonen**, V. Chandrasekar, and D. Moisseev. A Bayesian algorithm for tangential deconvolution of weather radar images. In *ERAD 2012, Toulouse, France*, 2012. [http://www.meteo.fr/cic/meetings/2012/ERAD/extended_abs/DQ_210_ext_abs.pdf](http://www.meteo.fr/cic/meetings/2012/ERAD/extended_abs/DQ_210_ext_abs.pdf).
+The Netherlands*, pages 586–593 (book of abstracts), 2018. doi:[10.18174/454537](https://doi.org/10.18174/454537)
+0. **J. Leinonen**, V. Chandrasekar, and D. Moisseev. A Bayesian algorithm for tangential deconvolution of weather radar images. In *ERAD 2012, Toulouse, France*, 2012. [http://www.meteo.fr/cic/meetings/2012/ERAD/extended_abs/DQ_210_ext_abs.pdf](http://www.meteo.fr/cic/meetings/2012/ERAD/extended_abs/DQ_210_ext_abs.pdf)
 0. A. von Lerber, D. Moisseev, **J. Leinonen**, J. Tyynelä, V. Chandrasekar, and M. Hallikainen.
 Modeling melting layer radar observations at GPM frequencies: comparison to measurements.
 In *International Geoscience & Remote Sensing Symposium 2011*, Vancouver, British Columbia, Canada, 2011, 2507–2510.
-doi:[10.1109/IGARSS.2011.6049721](https://doi.org/10.1109/IGARSS.2011.6049721). 
+doi:[10.1109/IGARSS.2011.6049721](https://doi.org/10.1109/IGARSS.2011.6049721)
 0. **J. Leinonen** and D. Moisseev. Snowfall characterization with combined ground and space radar.
-In *ERAD 2010, Sibiu, Romania*, 2010. 
+In *ERAD 2010, Sibiu, Romania*, 2010. [https://www.erad2010.com/pdf/oral/monday/03_ERAD2010_0117.pdf](https://www.erad2010.com/pdf/oral/monday/03_ERAD2010_0117.pdf)
 {: reversed="reversed"}
 
 ### Papers in review
