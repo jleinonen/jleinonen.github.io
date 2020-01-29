@@ -244,6 +244,5 @@ California, USA*, 2006.
 * *2018* **PI**: *Reconstruction of the Vertical Structure of Clouds and Precipitation with Generative Adversarial Networks*, JPL Research and Technology Development program
 * *2017* **Collaborator**: *[Using 3D-Printed Analogues to Understand Complex Ice Particles](http://gotw.nerc.ac.uk/list_full.asp?pcode=NE%2FR00014X%2F1&cookieConsent=A)*, UK Natural Environment Research Council (NERC), PI C. Westbrook (U. Reading)
 * *2017* **Collaborator**: *[Ice processes in Antarctica: identification via multi-wavelength active and passive measurements and model evaluation](https://asr.science.energy.gov/projects/10989)*, US Dept. of Energy, PI A. Battaglia (U. Leicester)
-* *2016* **Collaborator**: *[Optimal combination of Polarimetric and Triple frequency radar techniques for Improving Mi-
-crophysical process understanding of cold clouds (OPTIMICE)](https://gepris.dfg.de/gepris/projekt/290611444?context=projekt&task=showDetail&id=290611444&)*, German Research Foundation (DFG), PI S. Kneifel,
+* *2016* **Collaborator**: *[Optimal combination of Polarimetric and Triple frequency radar techniques for Improving Microphysical process understanding of cold clouds (OPTIMICE)](https://gepris.dfg.de/gepris/projekt/290611444?context=projekt&task=showDetail&id=290611444&)*, German Research Foundation (DFG), PI S. Kneifel,
 (U. Cologne)
