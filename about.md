@@ -1,18 +1,50 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about.html
 ---
 
-<img src="{{site.url}}/assets/img/selfie.jpg">
+[Education](#education) | [Experience](#experience) | [Papers](#papers) | [Presentations](#presentations) | [Successful proposals](#proposals)
 
 I've worked on atmospheric science &mdash; especially cloud and precipitation radar &mdash; data problems since about 2008 and I'm currently working on applications of machine learning to these problems. I hope this blog will help others put these methods into practice.
 
 I'm working with the [Environmental Remote Sensing Laboratory](https://www.epfl.ch/labs/lte/) at the [Swiss Federal Institute of Technology in Lausanne (EPFL)](https://www.epfl.ch/).
 
+<img src="{{site.url}}/assets/img/selfie.jpg">
+
+# Education <a name="education"></a>
+
+* *2013:* **Doctor of Science (Tech.)**, Physics, [Aalto University](https://www.aalto.fi/), Espoo, Finland.  
+Advisors: Prof. Risto Nieminen (Aalto University) and Dr. Timo Nousiainen (University of Helsinki)
+* *2007:* **Master of Science (Tech.)**, Physics (major), Space Technology (minor), Helsinki University of Technology, Espoo, Finland
+
+# Experience <a name="experience"></a>
+
+* *April 2019 &ndash; present:* **[École polytechnique fédérale de Lausanne](https://www.epfl.ch/)**, Lausanne, Switzerland
+  * Position: Scientist, [Environmental Remote Sensing Laboratory](https://www.epfl.ch/labs/lte/)
+  * Responsibilities: Machine learning analysis of snowfall measurements and weather radar imagery
+* *March 2014 &ndash; March 2019:* **[NASA Jet Propulsion Laboratory](https://jpl.nasa.gov/), [California Institute of Technology](https://www.caltech.edu/)**, Pasadena, California, USA
+  * Positions:
+    * *January 2018 &ndash; March 2019:* Data Scientist, Science Data Understanding and Modeling group
+    * *September 2016 &ndash; January 2018:* Assistant Researcher, [JIFRESSE](https://jifresse.ucla.edu/) (jointly with [University of California, Los Angeles](https://www.ucla.edu/), California, USA)
+    * *March 2014 &ndash; September 2016:* Postdoctoral Scholar (advisor: Dr. Matthew D. Lebsock)
+  * Responsibilities: Research of retrievals of clouds and precipitation from satellite measurements
+* *November 2008 &ndash; March 2014:* **[Finnish Meteorological Institute](https://www.fmi.fi/)**, Helsinki, Finland
+  * Position: Graduate Researcher, Radar and Space Technology group
+  * Responsibilities: Research on microphysics and radar remote sensing of hydrometeors, snow in particular
+* *January 2008 &ndash; October 2008:* **Finnish Institute of Marine Research**, Helsinki, Finland
+  * Position: Civilian Service, Physical Oceanography group
+  * Responsibilities: Data analysis and operational programming related to sea level and wave height measurements and forecasts
+* *May 2005 &ndash; June 2007:* **[Finnish Meteorological Institute](https://www.fmi.fi/)**, Helsinki, Finland
+  * Position: Research Trainee, Space Technology group
+  * Responsibilities: Analysis of the Huygens pressure measurements from Titan, including reconstruction of the temperature profile independently of temperature measurements
+* *May 2004 &ndash; August 2004:* **Helsinki University of Technology**, Espoo, Finland
+  * Position: Research Assistant, Low Temperature Laboratory
+  * Responsibilities: Design and use of computer software for the analysis of experiments on rotating Helium-3 superfluid
+
 # Publications and appearances
 
-## Papers
+## Papers <a name="papers"></a>
 
 ### Journal articles
 
@@ -115,7 +147,7 @@ In *ERAD 2010, Sibiu, Romania*, 2010. [https://www.erad2010.com/pdf/oral/monday/
 adversarial network and _K_-medoids classification. Atmospheric Measurement Techniques Discussions, 2019. doi:[10.5194/amt-2019-440](https://doi.org/10.5194/amt-2019-440). In review, preprint available.
 {: reversed="reversed"}
 
-## Presentations
+## Presentations <a name="presentations"></a>
 
 ### Invited conference talks
 
@@ -203,3 +235,15 @@ profile using the Huygens HASI/PPI instrument. At *36th COSPAR Scientific Assemb
 China*, 2006.
 0. **J. Leinonen**, T. Mäkinen, and A.-M. Harri. The atmospheric temperature profile of Titan reconstructed from pressure data. At *4th International Planetary Probe Workshop, Pasadena,
 California, USA*, 2006.
+
+# Successful proposals <a name="proposals"></a>
+
+* *2019* **PI**: *Deep Learning For Understanding Clouds and Precipitation*, Swiss Supercomputing Centre Small Development Project
+* *2019* **Co-I**: *[Using CloudSat and CALIPSO observations to assess and inform Global Climate Model hydrometeor generators about the horizontal and vertical subgrid variability of clouds and precipitation](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=702361/solicitationId=%7BFECE7AC1-6BD2-0905-F2B7-D89EE27CF2F2%7D/viewSolicitationDocument=1/CCST18%20SELECTIONS.pdf)*, NASA Research Opportunities in Earth and Space Science, CloudSat Science Team, PI Lazaros Oreopoulos (NASA GSFC)
+* *2019* **Co-I**: *[EarthCARE’s Cloud, Convection and Precipitation Radar Products: algorithm development, product calibration and validation](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=661832/solicitationId=%7BC01AB0C4-FDC4-D958-10C3-967947E2D367%7D/viewSolicitationDocument=1/EUSPI18%20selections.pdf)*, NASA Research Opportunities in Earth and Space Science, US Participating Investigator Program, PI Ousmane O. Sy (JPL)
+* *2018* **PI**: *Reconstruction of the Vertical Structure of Clouds and Precipitation with Generative Adversarial Networks*, JPL Research and Technology Development program
+* *2017* **Collaborator**: *[Using 3D-Printed Analogues to Understand Complex Ice Particles](http://gotw.nerc.ac.uk/list_full.asp?pcode=NE%2FR00014X%2F1&cookieConsent=A)*, UK Natural Environment Research Council (NERC), PI C. Westbrook (U. Reading)
+* *2017* **Collaborator**: *[Ice processes in Antarctica: identification via multi-wavelength active and passive measurements and model evaluation](https://asr.science.energy.gov/projects/10989)*, US Dept. of Energy, PI A. Battaglia (U. Leicester)
+* *2016* **Collaborator**: *[Optimal combination of Polarimetric and Triple frequency radar techniques for Improving Mi-
+crophysical process understanding of cold clouds (OPTIMICE)](https://gepris.dfg.de/gepris/projekt/290611444?context=projekt&task=showDetail&id=290611444&)*, German Research Foundation (DFG), PI S. Kneifel,
+(U. Cologne)
