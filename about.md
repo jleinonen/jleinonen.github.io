@@ -234,6 +234,7 @@ profile using the Huygens HASI/PPI instrument. At *36th COSPAR Scientific Assemb
 China*, 2006.
 0. **J. Leinonen**, T. Mäkinen, and A.-M. Harri. The atmospheric temperature profile of Titan reconstructed from pressure data. At *4th International Planetary Probe Workshop, Pasadena,
 California, USA*, 2006.
+{: reversed="reversed"}
 
 # Successful proposals <a name="proposals"></a>
 
