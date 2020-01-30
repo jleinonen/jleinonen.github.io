@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About me
+title: About
 permalink: /about.html
 ---
-
-[Education](#education) | [Experience](#experience) | [Papers](#papers) | [Presentations](#presentations) | [Successful proposals](#proposals)
 
 I've worked on atmospheric science &mdash; especially cloud and precipitation radar &mdash; data problems since about 2008 and I'm currently working on applications of machine learning to these problems. I hope this blog will help others put these methods into practice.
 
 I'm working with the [Environmental Remote Sensing Laboratory](https://www.epfl.ch/labs/lte/) at the [Swiss Federal Institute of Technology in Lausanne (EPFL)](https://www.epfl.ch/).
+
+[Education](#education) | [Experience](#experience) | [Papers](#papers) | [Presentations](#presentations) | [Successful proposals](#proposals)
 
 <img src="{{site.url}}/assets/img/selfie.jpg">
 
