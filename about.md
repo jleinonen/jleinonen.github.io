@@ -151,8 +151,7 @@ adversarial network and _K_-medoids classification. Atmospheric Measurement Tech
 
 ### Invited conference talks
 
-0. *Keynote*: Snowflake models for ice microphysics retrievals with multi-frequency radars. At *38th AMS Conference on Radar
-Meteorology, Chicago, Illinois, USA*, 2017
+0. *Keynote*: [Snowflake models for ice microphysics retrievals with multi-frequency radars](https://ams.confex.com/ams/38RADAR/videogateway.cgi/id/41932?recordingid=41932). At *38th AMS Conference on Radar Meteorology, Chicago, Illinois, USA*, 2017
 0. *Keynote*: Physics-based simulation of snowflakes. At *First International Summer Snowfall Meeting, Cologne, Germany*, 2017
 {: reversed="reversed"}
 
