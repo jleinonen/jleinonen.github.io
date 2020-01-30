@@ -159,31 +159,31 @@ adversarial network and _K_-medoids classification. Atmospheric Measurement Tech
 
 0. *Highlight talk*: Generative adversarial networks for climate data field generation. In *9th International Workshop on Climate Informatics*, 2019
 0. Snowflake microphysics studies from deep-learning analysis
-of in-situ imagery. At *2nd International Summer Snowfall Workshop, Hyytiälä, Finland*, 2019.
+of in-situ imagery. At *2nd International Summer Snowfall Workshop, Hyytiälä, Finland*, 2019
 0. Multi-frequency radar retrieval of snowfall microphysics. In *ERAD 2018, Ede-Wageningen,
-The Netherlands*
-0. The release 05 CloudSat CWC-RVOD data product. At *2018 CloudSat-CALIPSO Science Team Meeting, Boulder, Colorado, USA*, 2018.
+The Netherlands*, 2018
+0. The release 05 CloudSat CWC-RVOD data product. At *2018 CloudSat-CALIPSO Science Team Meeting, Boulder, Colorado, USA*, 2018
 0. A multi-instrument satellite view of the global
 three-dimensional distribution of cloud liquid water. At *XVII International Conference on Clouds
-and Precipitation, Manchester, United Kingdom*, 2016.
+and Precipitation, Manchester, United Kingdom*, 2016
 0. Improved CloudSat–MODIS cloud
 liquid water content retrieval. At *2016 CloudSat Science Team Meeting, Newport News, Virginia,
-USA*, 2016.
+USA*, 2016
 0. Localized analysis of cloud optical depth and droplet
 radius from MODIS observations. At *Asia Oceania Geosciences Society 12th Annual Meeting,
-Singapore*, 2015.
+Singapore*, 2015
 0. Linking snowflake microphysics and radar scattering models. At *URSI Commission F Specialist Symposium on Microwave Remote Sensing of
-the Earth, Oceans, and Atmosphere, Espoo, Finland*, 2013.
+the Earth, Oceans, and Atmosphere, Espoo, Finland*, 2013
 0. GPM activities in Finland. At *5th International Workshop
-for GPM Ground Validation, Toronto, Ontario, Canada*, 2012.
-0. Statistical parametrization of the backscattering properties of snowflakes. At *ERAD 2012, Toulouse, France*, 2012.
+for GPM Ground Validation, Toronto, Ontario, Canada*, 2012
+0. Statistical parametrization of the backscattering properties of snowflakes. At *ERAD 2012, Toulouse, France*, 2012
 0. Snowfall characterization with combined ground and space radar.
-At *ERAD 2010, Sibiu, Romania*, 2010. 
+At *ERAD 2010, Sibiu, Romania*, 2010
 0. DPR simulations using multi-parameter radar data. At *4th
-GPM International GV Workshop, Helsinki, Finland*, 2010.
+GPM International GV Workshop, Helsinki, Finland*, 2010
 0. Simulating GPM DPR snowfall
 observations by using combined weather radar and CloudSat measurements. At *Nordic Remote
-Sensing Days, Helsinki, Finland*, 2009.
+Sensing Days, Helsinki, Finland*, 2009
 {: reversed="reversed"}
 
 
