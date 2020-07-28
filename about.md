@@ -48,6 +48,7 @@ Advisors: Prof. Risto Nieminen (Aalto University) and Dr. Timo Nousiainen (Unive
 
 ### Journal articles
 
+0. **J. Leinonen** and A. Berne. Unsupervised classification of snowflake images using a generative adversarial network and _K_-medoids classification. *Atmospheric Measurement Techniques*, **13**, 2949–2964, 2020. doi:[10.5194/amt-13-2949-2020](https://dx.doi.org/10.5194/amt-13-2949-2020)
 0. A. Protat, C. Klepp, V. Louf, W. Petersen, S. Alexander, A. Barros, **J. Leinonen**, and G. Mace.
 The Latitudinal Variability of Oceanic Rainfall Properties and Its Implication for Satellite Retrievals: 2. The Relationships Between Radar Observables and Drop Size Distribution Parameters. *Journal of Geophysical Research: Atmospheres*, **124**, 13312–13324, 2019. doi:[10.1029/2019JD031011](https://dx.doi.org/10.1029/2019JD031011)
 0. A. Protat, C. Klepp, V. Louf, W. Petersen, S. Alexander, A. Barros, **J. Leinonen**, and G. Mace.
@@ -57,7 +58,7 @@ Bansemer A., S. Tanelli, A. J. Heymsfield, and S. W. Nesbitt. The Microphysics o
 doi:[10.1029/2018JD029858](https://doi.org/10.1029/2018JD029858)
 0. **J. Leinonen**, A. Guillaume, and T. Yuan. Reconstruction of cloud vertical structure with
 a generative adversarial network. *Geophysical Research Letters*, **46**, 7035–7044, 2019.
-doi:[10.1029/2019GL082532](https://doi.org/10.1029/2019GL082532)
+doi:[10.1029/2019GL082532](https://doi.org/10.1029/2019GL082532), [preprint available at EarthArXiv](https://eartharxiv.org/w26ja/).
 0. M. Richardson, **J. Leinonen**, H. Q. Cronk, J. McDuffie, M. D. Lebsock, and G. L. Stephens.
 Liquid marine cloud geometric thickness retrieved from OCO-2’s oxygen A-band spectrometer.
 *Atmospheric Measurement Techniques*, **12**, 1717–1737, 2019. doi:[10.5194/amt-12-1717-2019](https://doi.org/10.5194/amt-12-1717-2019)
@@ -141,10 +142,16 @@ doi:[10.1109/IGARSS.2011.6049721](https://doi.org/10.1109/IGARSS.2011.6049721)
 In *ERAD 2010, Sibiu, Romania*, 2010. [https://www.erad2010.com/pdf/oral/monday/03_ERAD2010_0117.pdf](https://www.erad2010.com/pdf/oral/monday/03_ERAD2010_0117.pdf)
 {: reversed="reversed"}
 
+### Book chapters
+
+0. S. Kneifel, **J. Leinonen**, J. Tyynelä, D. Ori, and A. Battaglia. Scattering of hydrometeors. In *Satellite Precipitation Measurement*, chapter 15, pages 249–276. Springer, 2020. doi:[10.1007/978-3-030-24568-9_15](https://doi.org/10.1007/978-3-030-24568-9_15)
+0. A. Battaglia, S. Tanelli, F. Tridon, S. Kneifel, J. Leinonen, and P. Kollias. Triple-frequency radar
+retrievals. In *Satellite Precipitation Measurement*, chapter 13, pages 211–229. Springer, 2020. doi:[10.1007/978-3-030-24568-9_13](https://doi.org/10.1007/978-3-030-24568-9_13)
+{: reversed="reversed"}
+
 ### Papers in review
 
-0. **J. Leinonen** and A. Berne. Unsupervised classification of snowflake images using a generative
-adversarial network and _K_-medoids classification. Atmospheric Measurement Techniques Discussions, 2019. doi:[10.5194/amt-2019-440](https://doi.org/10.5194/amt-2019-440). In review, preprint available.
+0. **J. Leinonen**, D. Nerini and A. Berne. Stochastic Super-Resolution for Downscaling Time-Evolving Atmospheric Fields with a Generative Adversarial Network. *IEEE Transactions in Geoscience and Remote Sensing*, 2020. In review, [preprint available at arXiv](https://arxiv.org/abs/2005.10374).
 {: reversed="reversed"}
 
 ## Presentations <a name="presentations"></a>
