@@ -6,7 +6,7 @@ permalink: /about.html
 
 I've worked on atmospheric science &mdash; especially cloud and precipitation radar &mdash; data problems since about 2008 and I'm currently working on applications of machine learning to these problems. I hope this blog will help others put these methods into practice.
 
-I'm working with the [Environmental Remote Sensing Laboratory](https://www.epfl.ch/labs/lte/) at the [Swiss Federal Institute of Technology in Lausanne (EPFL)](https://www.epfl.ch/).
+I'm working with the Radar, Satellite and Nowcasting group at [MeteoSwiss](https://www.meteoswiss.ch/).
 
 [Education](#education) | [Experience](#experience) | [Papers](#papers) | [Presentations](#presentations) | [Successful proposals](#proposals)
 
@@ -20,7 +20,10 @@ Advisors: Prof. Risto Nieminen (Aalto University) and Dr. Timo Nousiainen (Unive
 
 # Experience <a name="experience"></a>
 
-* *April 2019 &ndash; present:* **[École polytechnique fédérale de Lausanne](https://www.epfl.ch/)**, Lausanne, Switzerland
+* *October 2020 &ndash; present:* **[MeteoSwiss](https://www.meteoswiss.ch/)**, Locarno-Monti, Switzerland
+  * Position: EUMETSAT Fellow
+  * Responsibilities: Development of machine learning methods for thunderstorm nowcasting
+* *April 2019 &ndash; September 2020:* **[École polytechnique fédérale de Lausanne](https://www.epfl.ch/)**, Lausanne, Switzerland
   * Position: Scientist, [Environmental Remote Sensing Laboratory](https://www.epfl.ch/labs/lte/)
   * Responsibilities: Machine learning analysis of snowfall measurements and weather radar imagery
 * *March 2014 &ndash; March 2019:* **[NASA Jet Propulsion Laboratory](https://jpl.nasa.gov/), [California Institute of Technology](https://www.caltech.edu/)**, Pasadena, California, USA
@@ -48,6 +51,7 @@ Advisors: Prof. Risto Nieminen (Aalto University) and Dr. Timo Nousiainen (Unive
 
 ### Journal articles
 
+0. **J. Leinonen**, D. Nerini and A. Berne. Stochastic Super-Resolution for Downscaling Time-Evolving Atmospheric Fields With a Generative Adversarial Network. *IEEE Transactions on Geoscience and Remote Sensing*, 2020. doi:[10.1109/TGRS.2020.3032790](https://dx.doi.org/10.1109/TGRS.2020.3032790), [preprint available at ArXiv](https://arxiv.org/abs/2005.10374)
 0. **J. Leinonen** and A. Berne. Unsupervised classification of snowflake images using a generative adversarial network and _K_-medoids classification. *Atmospheric Measurement Techniques*, **13**, 2949–2964, 2020. doi:[10.5194/amt-13-2949-2020](https://dx.doi.org/10.5194/amt-13-2949-2020)
 0. A. Protat, C. Klepp, V. Louf, W. Petersen, S. Alexander, A. Barros, **J. Leinonen**, and G. Mace.
 The Latitudinal Variability of Oceanic Rainfall Properties and Its Implication for Satellite Retrievals: 2. The Relationships Between Radar Observables and Drop Size Distribution Parameters. *Journal of Geophysical Research: Atmospheres*, **124**, 13312–13324, 2019. doi:[10.1029/2019JD031011](https://dx.doi.org/10.1029/2019JD031011)
@@ -151,13 +155,15 @@ retrievals. In *Satellite Precipitation Measurement*, chapter 13, pages 211–22
 
 ### Papers in review
 
-0. **J. Leinonen**, D. Nerini and A. Berne. Stochastic Super-Resolution for Downscaling Time-Evolving Atmospheric Fields with a Generative Adversarial Network. *IEEE Transactions in Geoscience and Remote Sensing*, 2020. In review, [preprint available at arXiv](https://arxiv.org/abs/2005.10374).
+0. **J. Leinonen**, J. Grazioli, and A. Berne. Reconstruction of the mass and geometry of snowfall particles from multi angle snowflake camera (MASC) images. *Atmospheric Measurement Techniques*, 2021. In review.
+0. **J. Leinonen**, U. Hamann, U. Germann and J. R. Mecikalski. Nowcasting thunderstorm hazards using machine learning: the impact of data sources on performance. *Natural Hazards and Earth System Sciences*, 2021. In review, [preprint available](https://nhess.copernicus.org/preprints/nhess-2021-171/).
 {: reversed="reversed"}
 
 ## Presentations <a name="presentations"></a>
 
 ### Invited conference talks
 
+0. [Stochastic machine learning for atmospheric fields with generative adversarial networks](https://portal.enes.org/community/announcements/ISENES3Workshop20210317JL.pdf), *Joint IS-ENES3/ESiWACE2 Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling*, 2021
 0. *Keynote*: [Snowflake models for ice microphysics retrievals with multi-frequency radars](https://ams.confex.com/ams/38RADAR/videogateway.cgi/id/41932?recordingid=41932). At *38th AMS Conference on Radar Meteorology, Chicago, Illinois, USA*, 2017
 0. *Keynote*: Physics-based simulation of snowflakes. At *First International Summer Snowfall Meeting, Cologne, Germany*, 2017
 {: reversed="reversed"}
