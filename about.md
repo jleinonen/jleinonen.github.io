@@ -51,7 +51,7 @@ Advisors: Prof. Risto Nieminen (Aalto University) and Dr. Timo Nousiainen (Unive
 
 ### Journal articles
 
-0. **J. Leinonen**, D. Nerini and A. Berne. Stochastic Super-Resolution for Downscaling Time-Evolving Atmospheric Fields With a Generative Adversarial Network. *IEEE Transactions on Geoscience and Remote Sensing*, 2020. doi:[10.1109/TGRS.2020.3032790](https://dx.doi.org/10.1109/TGRS.2020.3032790), [preprint available at ArXiv](https://arxiv.org/abs/2005.10374)
+0. **J. Leinonen**, D. Nerini and A. Berne. Stochastic Super-Resolution for Downscaling Time-Evolving Atmospheric Fields With a Generative Adversarial Network. *IEEE Transactions on Geoscience and Remote Sensing*, **59**, 7211–7223, 2021. doi:[10.1109/TGRS.2020.3032790](https://dx.doi.org/10.1109/TGRS.2020.3032790), [preprint available at ArXiv](https://arxiv.org/abs/2005.10374)
 0. **J. Leinonen** and A. Berne. Unsupervised classification of snowflake images using a generative adversarial network and _K_-medoids classification. *Atmospheric Measurement Techniques*, **13**, 2949–2964, 2020. doi:[10.5194/amt-13-2949-2020](https://dx.doi.org/10.5194/amt-13-2949-2020)
 0. A. Protat, C. Klepp, V. Louf, W. Petersen, S. Alexander, A. Barros, **J. Leinonen**, and G. Mace.
 The Latitudinal Variability of Oceanic Rainfall Properties and Its Implication for Satellite Retrievals: 2. The Relationships Between Radar Observables and Drop Size Distribution Parameters. *Journal of Geophysical Research: Atmospheres*, **124**, 13312–13324, 2019. doi:[10.1029/2019JD031011](https://dx.doi.org/10.1029/2019JD031011)
@@ -251,6 +251,7 @@ California, USA*, 2006.
 
 # Successful proposals <a name="proposals"></a>
 
+* *2020* **Collaborator**: *Studying the parametrization of melting snow particles and untangling the bright band effect in dual-polarization and multi-wavelength radar measurements*, Postdoctoral Researcher grant, Academy of Finland, PI Annakaisa von Lerber (Finnish Meteorological Institute)
 * *2019* **PI**: *Deep Learning For Understanding Clouds and Precipitation*, Swiss Supercomputing Centre Small Development Project
 * *2019* **Co-I**: *[Using CloudSat and CALIPSO observations to assess and inform Global Climate Model hydrometeor generators about the horizontal and vertical subgrid variability of clouds and precipitation](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=702361/solicitationId=%7BFECE7AC1-6BD2-0905-F2B7-D89EE27CF2F2%7D/viewSolicitationDocument=1/CCST18%20SELECTIONS.pdf)*, NASA Research Opportunities in Earth and Space Science, CloudSat Science Team, PI Lazaros Oreopoulos (NASA GSFC)
 * *2019* **Co-I**: *[EarthCARE’s Cloud, Convection and Precipitation Radar Products: algorithm development, product calibration and validation](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=661832/solicitationId=%7BC01AB0C4-FDC4-D958-10C3-967947E2D367%7D/viewSolicitationDocument=1/EUSPI18%20selections.pdf)*, NASA Research Opportunities in Earth and Space Science, US Participating Investigator Program, PI Ousmane O. Sy (JPL)
