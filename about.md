@@ -149,7 +149,7 @@ In *ERAD 2010, Sibiu, Romania*, 2010. [https://www.erad2010.com/pdf/oral/monday/
 ### Book chapters
 
 0. S. Kneifel, **J. Leinonen**, J. Tyynelä, D. Ori, and A. Battaglia. Scattering of hydrometeors. In *Satellite Precipitation Measurement*, chapter 15, pages 249–276. Springer, 2020. doi:[10.1007/978-3-030-24568-9_15](https://doi.org/10.1007/978-3-030-24568-9_15)
-0. A. Battaglia, S. Tanelli, F. Tridon, S. Kneifel, J. Leinonen, and P. Kollias. Triple-frequency radar
+0. A. Battaglia, S. Tanelli, F. Tridon, S. Kneifel, **J. Leinonen**, and P. Kollias. Triple-frequency radar
 retrievals. In *Satellite Precipitation Measurement*, chapter 13, pages 211–229. Springer, 2020. doi:[10.1007/978-3-030-24568-9_13](https://doi.org/10.1007/978-3-030-24568-9_13)
 {: reversed="reversed"}
 
@@ -170,6 +170,7 @@ retrievals. In *Satellite Precipitation Measurement*, chapter 13, pages 211–22
 
 ### Other conference talks
 
+0. Stochastic generation of climate and weather data fields with generative adversarial networks. In *Workshop on Data Science in Climate and Climate Impact Research*, Online, 2020
 0. *Highlight talk*: Generative adversarial networks for climate data field generation. In *9th International Workshop on Climate Informatics*, 2019
 0. Snowflake microphysics studies from deep-learning analysis
 of in-situ imagery. At *2nd International Summer Snowfall Workshop, Hyytiälä, Finland*, 2019
