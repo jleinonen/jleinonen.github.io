@@ -167,16 +167,18 @@ retrievals. In *Satellite Precipitation Measurement*, chapter 13, pages 211–22
 
 ### Invited talks and keynotes
 
-0. [Time-Consistent Downscaling of Atmospheric Fields with Generative Adversarial Networks](https://events.ecmwf.int/event/294/contributions/3103/attachments/1704/3074/MAELSTROM-WS_Leinonen.pdf).At *MAELSTROM dissemination workshop, online*, 2022.
+0. [Time-Consistent Downscaling of Atmospheric Fields with Generative Adversarial Networks](https://events.ecmwf.int/event/294/contributions/3103/attachments/1704/3074/MAELSTROM-WS_Leinonen.pdf). At *MAELSTROM dissemination workshop, online*, 2022.
 0. *Keynote*: Seamlessly nowcasting lightning with convolutional-recurrent deep learning. At *4th European Nowcasting Conference, online*, 2022.
 0. [Stochastic machine learning for atmospheric fields with generative adversarial networks](https://portal.enes.org/community/announcements/ISENES3Workshop20210317JL.pdf). At *Joint IS-ENES3/ESiWACE2 Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling, online*, 2021
 0. *Keynote*: [Snowflake models for ice microphysics retrievals with multi-frequency radars](https://ams.confex.com/ams/38RADAR/videogateway.cgi/id/41932?recordingid=41932). At *38th AMS Conference on Radar Meteorology, Chicago, Illinois, USA*, 2017
-0. *Keynote*: Physics-based simulation of snowflakes. At *First International Summer Snowfall Meeting*, Cologne, Germany*, 2017
+0. *Keynote*: Physics-based simulation of snowflakes. At *First International Summer Snowfall Meeting*, Cologne, Germany, 2017
 {: reversed="reversed"}
 
 ### Other conference talks
 
-0. Stochastic generation of climate and weather data fields with generative adversarial networks. In *Workshop on Data Science in Climate and Climate Impact Research*, Online, 2020
+0. Hazard-specific Thunderstorm Nowcasting Using Machine Learning with Satellite, Radar and NWP Data. At *EUMETSAT Meteorological Satellite Conference*, 2021.
+0. Machine Learning for Seamless Thunderstorm Nowcasting from Multiple Data Sources. In *ESA-ECMWF Workshop, online*, 2021.
+0. Stochastic generation of climate and weather data fields with generative adversarial networks. In *Workshop on Data Science in Climate and Climate Impact Research, online*, 2020
 0. *Highlight talk*: Generative adversarial networks for climate data field generation. In *9th International Workshop on Climate Informatics*, 2019
 0. Snowflake microphysics studies from deep-learning analysis
 of in-situ imagery. At *2nd International Summer Snowfall Workshop, Hyytiälä, Finland*, 2019
@@ -209,6 +211,7 @@ Sensing Days, Helsinki, Finland*, 2009
 
 ### Guest talks at universities and research institutes
 
+0. Stochastic machine learning for atmospheric fields with generative adversarial networks. At *Ludwig Maximilians Universität Munich* (online talk), Jun 2021.
 0. From snowflake models to space-based radar retrievals of atmospheric ice. At *NASA Goddard
 Space Flight Center, Greenbelt, Maryland, USA*, Sep 2018
 0. Snowflake models for retrievals with multi-frequency radars. At *Pacific Northwest National Laboratory, Richland, Washington, USA*, Aug 2017
