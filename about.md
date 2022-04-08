@@ -4,7 +4,7 @@ title: About
 permalink: /about.html
 ---
 
-I've worked on atmospheric science &mdash; especially cloud and precipitation radar &mdash; data problems since about 2008 and I'm currently working on applications of machine learning to these problems. I hope this blog will help others put these methods into practice.
+I've worked on atmospheric science &mdash; especially cloud and precipitation radar &mdash; data problems since about 2008 and I'm currently working on applications of machine learning to these problems.
 
 I'm working with the Radar, Satellite and Nowcasting group at [MeteoSwiss](https://www.meteoswiss.ch/).
 
@@ -51,6 +51,8 @@ Advisors: Prof. Risto Nieminen (Aalto University) and Dr. Timo Nousiainen (Unive
 
 ### Journal articles
 
+0. **J. Leinonen**, U. Hamann, U. Germann and J. R. Mecikalski. Nowcasting thunderstorm hazards using machine learning: the impact of data sources on performance. *Natural Hazards and Earth System Sciences* **22**, 577–597, 2022. doi:[10.5194/nhess-22-577-2022](https://doi.org/10.5194/nhess-22-577-2022)
+0. **J. Leinonen**, J. Grazioli, and A. Berne. Reconstruction of the mass and geometry of snowfall particles from multi angle snowflake camera (MASC) images. *Atmospheric Measurement Techniques* **14**, 6851–6866, 2021. doi:[10.5194/amt-14-6851-2021](https://doi.org/10.5194/amt-14-6851-2021)
 0. **J. Leinonen**, D. Nerini and A. Berne. Stochastic Super-Resolution for Downscaling Time-Evolving Atmospheric Fields With a Generative Adversarial Network. *IEEE Transactions on Geoscience and Remote Sensing*, **59**, 7211–7223, 2021. doi:[10.1109/TGRS.2020.3032790](https://dx.doi.org/10.1109/TGRS.2020.3032790), [preprint available at ArXiv](https://arxiv.org/abs/2005.10374)
 0. **J. Leinonen** and A. Berne. Unsupervised classification of snowflake images using a generative adversarial network and _K_-medoids classification. *Atmospheric Measurement Techniques*, **13**, 2949–2964, 2020. doi:[10.5194/amt-13-2949-2020](https://dx.doi.org/10.5194/amt-13-2949-2020)
 0. A. Protat, C. Klepp, V. Louf, W. Petersen, S. Alexander, A. Barros, **J. Leinonen**, and G. Mace.
@@ -133,6 +135,9 @@ profile from in situ pressure data: Application to Titan. *Planetary and Space S
 
 ### Conference papers
 
+0. **J. Leinonen**, Improvements to short-term weather prediction with recurrent-convolutional networks. In *2021 IEEE International Conference on Big Data*, pages 5764–5769 (proceedings), 2021. doi:[10.1109/BigData52589.2021.9671869](https://doi.org/10.1109/BigData52589.2021.9671869)
+0. **J. Leinonen**, Spatiotemporal weather data predictions with shortcut recurrent-convolutional networks: A solution for the Weather4cast challenge. In *Proceedings of the CIKM2021 Workshops*, 2021. [http://ceur-ws.org/Vol-3052/short15.735](http://ceur-ws.org/Vol-3052/short15.735)
+pdf
 0. **J. Leinonen**, T. Yuan, and A. Berne. Generative adversarial network for climate data field generation. In *9th International Workshop on Climate Informatics, Paris, France*, pages 37–42 (proceedings), 2019. doi:[10.5065/y82j-f154](https://doi.org/10.5065/y82j-f154)
 0. **J. Leinonen**, M. D. Lebsock, Sy. O. O., S. Tanelli, B. Dolan, R. J. Chase, and Finlon. J. A.
 Multi-frequency radar retrieval of snowfall microphysics. In *ERAD 2018, Ede-Wageningen,
@@ -155,17 +160,18 @@ retrievals. In *Satellite Precipitation Measurement*, chapter 13, pages 211–22
 
 ### Papers in review
 
-0. **J. Leinonen**, J. Grazioli, and A. Berne. Reconstruction of the mass and geometry of snowfall particles from multi angle snowflake camera (MASC) images. *Atmospheric Measurement Techniques*, 2021. In review.
-0. **J. Leinonen**, U. Hamann, U. Germann and J. R. Mecikalski. Nowcasting thunderstorm hazards using machine learning: the impact of data sources on performance. *Natural Hazards and Earth System Sciences*, 2021. In review, [preprint available](https://nhess.copernicus.org/preprints/nhess-2021-171/).
+0. **J. Leinonen**, U. Hamann and U. Germann. Seamless lightning nowcasting with recurrent-convolutional deep learning. *Weather and Forecasting*, 2022. In review, [preprint available at ArXiv](https://arxiv.org/abs/2203.10114)
 {: reversed="reversed"}
 
 ## Presentations <a name="presentations"></a>
 
-### Invited conference talks
+### Invited talks and keynotes
 
-0. [Stochastic machine learning for atmospheric fields with generative adversarial networks](https://portal.enes.org/community/announcements/ISENES3Workshop20210317JL.pdf), *Joint IS-ENES3/ESiWACE2 Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling*, 2021
+0. [Time-Consistent Downscaling of Atmospheric Fields with Generative Adversarial Networks](https://events.ecmwf.int/event/294/contributions/3103/attachments/1704/3074/MAELSTROM-WS_Leinonen.pdf).At *MAELSTROM dissemination workshop, online*, 2022.
+0. *Keynote*: Seamlessly nowcasting lightning with convolutional-recurrent deep learning. At *4th European Nowcasting Conference, online*, 2022.
+0. [Stochastic machine learning for atmospheric fields with generative adversarial networks](https://portal.enes.org/community/announcements/ISENES3Workshop20210317JL.pdf). At *Joint IS-ENES3/ESiWACE2 Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling, online*, 2021
 0. *Keynote*: [Snowflake models for ice microphysics retrievals with multi-frequency radars](https://ams.confex.com/ams/38RADAR/videogateway.cgi/id/41932?recordingid=41932). At *38th AMS Conference on Radar Meteorology, Chicago, Illinois, USA*, 2017
-0. *Keynote*: Physics-based simulation of snowflakes. At *First International Summer Snowfall Meeting, Cologne, Germany*, 2017
+0. *Keynote*: Physics-based simulation of snowflakes. At *First International Summer Snowfall Meeting*, Cologne, Germany*, 2017
 {: reversed="reversed"}
 
 ### Other conference talks
