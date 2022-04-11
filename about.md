@@ -176,7 +176,9 @@ retrievals. In *Satellite Precipitation Measurement*, chapter 13, pages 211–22
 
 ### Other conference talks
 
-0. Hazard-specific Thunderstorm Nowcasting Using Machine Learning with Satellite, Radar and NWP Data. At *EUMETSAT Meteorological Satellite Conference*, 2021.
+0. Improvements to short-term weather prediction with recurrent-convolutional networks. In *2021 IEEE International Conference on Big Data*, 2021.
+0. Spatiotemporal weather data predictions with shortcut recurrent-convolutional networks: A solution for the Weather4cast challenge. In *Workshop on Complex Data Challenges in Earth Observation (CDCEO)*, 2021.
+0. Hazard-specific Thunderstorm Nowcasting Using Machine Learning with Satellite, Radar and NWP Data. In *EUMETSAT Meteorological Satellite Conference*, 2021.
 0. Machine Learning for Seamless Thunderstorm Nowcasting from Multiple Data Sources. In *ESA-ECMWF Workshop, online*, 2021.
 0. Stochastic generation of climate and weather data fields with generative adversarial networks. In *Workshop on Data Science in Climate and Climate Impact Research, online*, 2020
 0. *Highlight talk*: Generative adversarial networks for climate data field generation. In *9th International Workshop on Climate Informatics*, 2019
