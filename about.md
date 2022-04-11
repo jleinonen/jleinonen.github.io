@@ -161,6 +161,7 @@ retrievals. In *Satellite Precipitation Measurement*, chapter 13, pages 211–22
 ### Papers in review
 
 0. **J. Leinonen**, U. Hamann and U. Germann. Seamless lightning nowcasting with recurrent-convolutional deep learning. *Weather and Forecasting*, 2022. In review, [preprint available at ArXiv](https://arxiv.org/abs/2203.10114)
+0. J. C. Hardin, N. Guy. **J. Leinonen** and V. Chandrasekar: PyDSD - A Python Library for Working with Disdrometers, Particle Probes, and Drop Size Distribution Data. *Journal of Open Research Software*, 2022. In review.
 {: reversed="reversed"}
 
 ## Presentations <a name="presentations"></a>
