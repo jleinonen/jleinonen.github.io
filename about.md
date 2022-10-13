@@ -51,6 +51,7 @@ Advisors: Prof. Risto Nieminen (Aalto University) and Dr. Timo Nousiainen (Unive
 
 ### Journal articles
 
+0. **J. Leinonen**, U. Hamann and U. Germann. Seamless lightning nowcasting with recurrent-convolutional deep learning. *Artificial Intelligence for the Earth Systems*, 2022. doi:[10.1175/AIES-D-22-0043.1](https://doi.org/10.1175/AIES-D-22-0043.1)
 0. **J. Leinonen**, U. Hamann, U. Germann and J. R. Mecikalski. Nowcasting thunderstorm hazards using machine learning: the impact of data sources on performance. *Natural Hazards and Earth System Sciences* **22**, 577–597, 2022. doi:[10.5194/nhess-22-577-2022](https://doi.org/10.5194/nhess-22-577-2022)
 0. **J. Leinonen**, J. Grazioli, and A. Berne. Reconstruction of the mass and geometry of snowfall particles from multi angle snowflake camera (MASC) images. *Atmospheric Measurement Techniques* **14**, 6851–6866, 2021. doi:[10.5194/amt-14-6851-2021](https://doi.org/10.5194/amt-14-6851-2021)
 0. **J. Leinonen**, D. Nerini and A. Berne. Stochastic Super-Resolution for Downscaling Time-Evolving Atmospheric Fields With a Generative Adversarial Network. *IEEE Transactions on Geoscience and Remote Sensing*, **59**, 7211–7223, 2021. doi:[10.1109/TGRS.2020.3032790](https://dx.doi.org/10.1109/TGRS.2020.3032790), [preprint available at ArXiv](https://arxiv.org/abs/2005.10374)
@@ -154,14 +155,13 @@ In *ERAD 2010, Sibiu, Romania*, 2010. [https://www.erad2010.com/pdf/oral/monday/
 ### Book chapters
 
 0. S. Kneifel, **J. Leinonen**, J. Tyynelä, D. Ori, and A. Battaglia. Scattering of hydrometeors. In *Satellite Precipitation Measurement*, chapter 15, pages 249–276. Springer, 2020. doi:[10.1007/978-3-030-24568-9_15](https://doi.org/10.1007/978-3-030-24568-9_15)
-0. A. Battaglia, S. Tanelli, F. Tridon, S. Kneifel, **J. Leinonen**, and P. Kollias. Triple-frequency radar
-retrievals. In *Satellite Precipitation Measurement*, chapter 13, pages 211–229. Springer, 2020. doi:[10.1007/978-3-030-24568-9_13](https://doi.org/10.1007/978-3-030-24568-9_13)
+0. A. Battaglia, S. Tanelli, F. Tridon, S. Kneifel, **J. Leinonen**, and P. Kollias. Triple-frequency radar retrievals. In *Satellite Precipitation Measurement*, chapter 13, pages 211–229. Springer, 2020. doi:[10.1007/978-3-030-24568-9_13](https://doi.org/10.1007/978-3-030-24568-9_13)
 {: reversed="reversed"}
 
 ### Papers in review
 
-0. **J. Leinonen**, U. Hamann and U. Germann. Seamless lightning nowcasting with recurrent-convolutional deep learning. *Weather and Forecasting*, 2022. In review, [preprint available at ArXiv](https://arxiv.org/abs/2203.10114)
-0. J. C. Hardin, N. Guy. **J. Leinonen** and V. Chandrasekar: PyDSD - A Python Library for Working with Disdrometers, Particle Probes, and Drop Size Distribution Data. *Journal of Open Research Software*, 2022. In review.
+0. N. Maherndl, M. Maahn, F. Tridon, **J. Leinonen**, D. Ori and S. Kneifel. A riming-dependent parameterization of scattering by snowflakes using the self-similar Rayleigh-Gans approximation. *Quarterly Journal of the Royal Meteorological Society*, 2022. In review.
+0. J. C. Hardin, N. Guy. **J. Leinonen** and V. Chandrasekar. PyDSD - A Python Library for Working with Disdrometers, Particle Probes, and Drop Size Distribution Data. *Journal of Open Research Software*, 2022. In review.
 {: reversed="reversed"}
 
 ## Presentations <a name="presentations"></a>
@@ -177,6 +177,8 @@ retrievals. In *Satellite Precipitation Measurement*, chapter 13, pages 211–22
 
 ### Other conference talks
 
+0. Deep learning based seamless nowcasting of thunderstorm hazards from multi-source data. In *EUMETSAT Meteorological Satellite Conference 2022*, Brussels, Belgium, 2022.
+0. Nowcasting thunderstorm hazards with neural networks from multi-source data. In *ERAD 2022*, Locarno, Switzerland, 2022.
 0. Improvements to short-term weather prediction with recurrent-convolutional networks. In *2021 IEEE International Conference on Big Data*, 2021.
 0. Spatiotemporal weather data predictions with shortcut recurrent-convolutional networks: A solution for the Weather4cast challenge. In *Workshop on Complex Data Challenges in Earth Observation (CDCEO)*, 2021.
 0. Hazard-specific Thunderstorm Nowcasting Using Machine Learning with Satellite, Radar and NWP Data. In *EUMETSAT Meteorological Satellite Conference*, 2021.
@@ -214,6 +216,7 @@ Sensing Days, Helsinki, Finland*, 2009
 
 ### Guest talks at universities and research institutes
 
+0. Deep Generative Models for Weather and Climate Applications. At *IDSIA Dalle Molle Institute for Artificial Intelligence*, Oct 2022.
 0. Stochastic machine learning for atmospheric fields with generative adversarial networks. At *Ludwig Maximilians Universität Munich* (online talk), Jun 2021.
 0. From snowflake models to space-based radar retrievals of atmospheric ice. At *NASA Goddard
 Space Flight Center, Greenbelt, Maryland, USA*, Sep 2018
