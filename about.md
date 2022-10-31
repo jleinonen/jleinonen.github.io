@@ -137,8 +137,7 @@ profile from in situ pressure data: Application to Titan. *Planetary and Space S
 ### Conference papers
 
 0. **J. Leinonen**, Improvements to short-term weather prediction with recurrent-convolutional networks. In *2021 IEEE International Conference on Big Data*, pages 5764–5769 (proceedings), 2021. doi:[10.1109/BigData52589.2021.9671869](https://doi.org/10.1109/BigData52589.2021.9671869)
-0. **J. Leinonen**, Spatiotemporal weather data predictions with shortcut recurrent-convolutional networks: A solution for the Weather4cast challenge. In *Proceedings of the CIKM2021 Workshops*, 2021. [http://ceur-ws.org/Vol-3052/short15.735](http://ceur-ws.org/Vol-3052/short15.735)
-pdf
+0. **J. Leinonen**, Spatiotemporal weather data predictions with shortcut recurrent-convolutional networks: A solution for the Weather4cast challenge. In *Proceedings of the CIKM2021 Workshops*, 2021. [http://ceur-ws.org/Vol-3052/short15.pdf](http://ceur-ws.org/Vol-3052/short15.pdf)
 0. **J. Leinonen**, T. Yuan, and A. Berne. Generative adversarial network for climate data field generation. In *9th International Workshop on Climate Informatics, Paris, France*, pages 37–42 (proceedings), 2019. doi:[10.5065/y82j-f154](https://doi.org/10.5065/y82j-f154)
 0. **J. Leinonen**, M. D. Lebsock, Sy. O. O., S. Tanelli, B. Dolan, R. J. Chase, and Finlon. J. A.
 Multi-frequency radar retrieval of snowfall microphysics. In *ERAD 2018, Ede-Wageningen,
