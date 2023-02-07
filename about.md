@@ -51,7 +51,7 @@ Advisors: Prof. Risto Nieminen (Aalto University) and Dr. Timo Nousiainen (Unive
 
 ### Journal articles
 
-0. **J. Leinonen**, U. Hamann and U. Germann. Seamless lightning nowcasting with recurrent-convolutional deep learning. *Artificial Intelligence for the Earth Systems*, 2022. doi:[10.1175/AIES-D-22-0043.1](https://doi.org/10.1175/AIES-D-22-0043.1)
+0. **J. Leinonen**, U. Hamann and U. Germann. Seamless lightning nowcasting with recurrent-convolutional deep learning. *Artificial Intelligence for the Earth Systems*, **1**, e220043, 2022. doi:[10.1175/AIES-D-22-0043.1](https://doi.org/10.1175/AIES-D-22-0043.1)
 0. **J. Leinonen**, U. Hamann, U. Germann and J. R. Mecikalski. Nowcasting thunderstorm hazards using machine learning: the impact of data sources on performance. *Natural Hazards and Earth System Sciences* **22**, 577–597, 2022. doi:[10.5194/nhess-22-577-2022](https://doi.org/10.5194/nhess-22-577-2022)
 0. **J. Leinonen**, J. Grazioli, and A. Berne. Reconstruction of the mass and geometry of snowfall particles from multi angle snowflake camera (MASC) images. *Atmospheric Measurement Techniques* **14**, 6851–6866, 2021. doi:[10.5194/amt-14-6851-2021](https://doi.org/10.5194/amt-14-6851-2021)
 0. **J. Leinonen**, D. Nerini and A. Berne. Stochastic Super-Resolution for Downscaling Time-Evolving Atmospheric Fields With a Generative Adversarial Network. *IEEE Transactions on Geoscience and Remote Sensing*, **59**, 7211–7223, 2021. doi:[10.1109/TGRS.2020.3032790](https://dx.doi.org/10.1109/TGRS.2020.3032790), [preprint available at ArXiv](https://arxiv.org/abs/2005.10374)
@@ -159,6 +159,7 @@ In *ERAD 2010, Sibiu, Romania*, 2010. [https://www.erad2010.com/pdf/oral/monday/
 
 ### Papers in review
 
+0. **J. Leinonen**, U. Hamann, U. Germann and I. V. Sideris. Thunderstorm nowcasting with deep learning: a multi-hazard data fusion model. *Geophysical Research Letters*, 2022. In review, [preprint available](https://arxiv.org/abs/2211.01001). 
 0. N. Maherndl, M. Maahn, F. Tridon, **J. Leinonen**, D. Ori and S. Kneifel. A riming-dependent parameterization of scattering by snowflakes using the self-similar Rayleigh-Gans approximation. *Quarterly Journal of the Royal Meteorological Society*, 2022. In review.
 0. J. C. Hardin, N. Guy. **J. Leinonen** and V. Chandrasekar. PyDSD - A Python Library for Working with Disdrometers, Particle Probes, and Drop Size Distribution Data. *Journal of Open Research Software*, 2022. In review.
 {: reversed="reversed"}
@@ -176,6 +177,7 @@ In *ERAD 2010, Sibiu, Romania*, 2010. [https://www.erad2010.com/pdf/oral/monday/
 
 ### Other conference talks
 
+0. Seamless prediction of multiple thunderstorm hazards with deep learning. In *ECMWF-ESA Workshop on Machine Learning for Earth Observation and Prediction, Reading, United Kingdom, 2022.
 0. Deep learning based seamless nowcasting of thunderstorm hazards from multi-source data. In *EUMETSAT Meteorological Satellite Conference 2022*, Brussels, Belgium, 2022.
 0. Nowcasting thunderstorm hazards with neural networks from multi-source data. In *ERAD 2022*, Locarno, Switzerland, 2022.
 0. Improvements to short-term weather prediction with recurrent-convolutional networks. In *2021 IEEE International Conference on Big Data*, 2021.
@@ -266,6 +268,7 @@ California, USA*, 2006.
 
 # Successful proposals <a name="proposals"></a>
 
+* *2023* **Collaborator**: *Evaluating Microphysical Pathways Of Midlatitude Snow Formation (EMPOS)*, Project Grant, German Research Foundation, PI Maximilian Maahn (University of Leipzig)
 * *2020* **Collaborator**: *Studying the parametrization of melting snow particles and untangling the bright band effect in dual-polarization and multi-wavelength radar measurements*, Postdoctoral Researcher grant, Academy of Finland, PI Annakaisa von Lerber (Finnish Meteorological Institute)
 * *2019* **PI**: *Deep Learning For Understanding Clouds and Precipitation*, Swiss Supercomputing Centre Small Development Project
 * *2019* **Co-I**: *[Using CloudSat and CALIPSO observations to assess and inform Global Climate Model hydrometeor generators about the horizontal and vertical subgrid variability of clouds and precipitation](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=702361/solicitationId=%7BFECE7AC1-6BD2-0905-F2B7-D89EE27CF2F2%7D/viewSolicitationDocument=1/CCST18%20SELECTIONS.pdf)*, NASA Research Opportunities in Earth and Space Science, CloudSat Science Team, PI Lazaros Oreopoulos (NASA GSFC)
