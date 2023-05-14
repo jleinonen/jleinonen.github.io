@@ -51,6 +51,7 @@ Advisors: Prof. Risto Nieminen (Aalto University) and Dr. Timo Nousiainen (Unive
 
 ### Journal articles
 
+0. **J. Leinonen**, U. Hamann, U. Germann and I. V. Sideris. Thunderstorm nowcasting with deep learning: a multi-hazard data fusion model. *Geophysical Research Letters*, **50**, e2022GL101626, 2023. doi:[10.1029/2022GL101626](https://doi.org/10.1029/2022GL101626)
 0. **J. Leinonen**, U. Hamann and U. Germann. Seamless lightning nowcasting with recurrent-convolutional deep learning. *Artificial Intelligence for the Earth Systems*, **1**, e220043, 2022. doi:[10.1175/AIES-D-22-0043.1](https://doi.org/10.1175/AIES-D-22-0043.1)
 0. **J. Leinonen**, U. Hamann, U. Germann and J. R. Mecikalski. Nowcasting thunderstorm hazards using machine learning: the impact of data sources on performance. *Natural Hazards and Earth System Sciences* **22**, 577–597, 2022. doi:[10.5194/nhess-22-577-2022](https://doi.org/10.5194/nhess-22-577-2022)
 0. **J. Leinonen**, J. Grazioli, and A. Berne. Reconstruction of the mass and geometry of snowfall particles from multi angle snowflake camera (MASC) images. *Atmospheric Measurement Techniques* **14**, 6851–6866, 2021. doi:[10.5194/amt-14-6851-2021](https://doi.org/10.5194/amt-14-6851-2021)
@@ -159,7 +160,8 @@ In *ERAD 2010, Sibiu, Romania*, 2010. [https://www.erad2010.com/pdf/oral/monday/
 
 ### Papers in review
 
-0. **J. Leinonen**, U. Hamann, U. Germann and I. V. Sideris. Thunderstorm nowcasting with deep learning: a multi-hazard data fusion model. *Geophysical Research Letters*, 2022. In review, [preprint available](https://arxiv.org/abs/2211.01001). 
+0. **J. Leinonen**, U. Hamann, D. Nerini, U. Germann and G. Franch. Latent diffusion models for generative precipitation nowcasting with accurate uncertainty quantification. 2023. In review.
+0. N. Rombeek, **J. Leinonen** and U. Hamann. Exploiting radar polarimetry for nowcasting thunderstorm hazards using deep learning. *Natural Hazards and Earth System Sciences*, 2023. In review, preprint available at [https://doi.org/10.5194/egusphere-2023-551](https://doi.org/10.5194/egusphere-2023-551).
 0. N. Maherndl, M. Maahn, F. Tridon, **J. Leinonen**, D. Ori and S. Kneifel. A riming-dependent parameterization of scattering by snowflakes using the self-similar Rayleigh-Gans approximation. *Quarterly Journal of the Royal Meteorological Society*, 2022. In review.
 0. J. C. Hardin, N. Guy. **J. Leinonen** and V. Chandrasekar. PyDSD - A Python Library for Working with Disdrometers, Particle Probes, and Drop Size Distribution Data. *Journal of Open Research Software*, 2022. In review.
 {: reversed="reversed"}
@@ -168,6 +170,8 @@ In *ERAD 2010, Sibiu, Romania*, 2010. [https://www.erad2010.com/pdf/oral/monday/
 
 ### Invited talks and keynotes
 
+0. Latent diffusion models for generative nowcasting and uncertainty quantification of precipitation fields. At *EGU General Assembly 2023*, Vienna, Austria, 2023.
+0. Predictive hazards from convective systems with deep learning. At *EGU General Assembly 2023*, Vienna, Austria, 2023.
 0. [Time-Consistent Downscaling of Atmospheric Fields with Generative Adversarial Networks](https://events.ecmwf.int/event/294/contributions/3103/attachments/1704/3074/MAELSTROM-WS_Leinonen.pdf). At *MAELSTROM dissemination workshop, online*, 2022.
 0. *Keynote*: Seamlessly nowcasting lightning with convolutional-recurrent deep learning. At *4th European Nowcasting Conference, online*, 2022.
 0. [Stochastic machine learning for atmospheric fields with generative adversarial networks](https://portal.enes.org/community/announcements/ISENES3Workshop20210317JL.pdf). At *Joint IS-ENES3/ESiWACE2 Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling, online*, 2021
