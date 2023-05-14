@@ -171,7 +171,7 @@ In *ERAD 2010, Sibiu, Romania*, 2010. [https://www.erad2010.com/pdf/oral/monday/
 ### Invited talks and keynotes
 
 0. Latent diffusion models for generative nowcasting and uncertainty quantification of precipitation fields. At *EGU General Assembly 2023*, Vienna, Austria, 2023.
-0. Predictive hazards from convective systems with deep learning. At *EGU General Assembly 2023*, Vienna, Austria, 2023.
+0. Predicting hazards from convective systems with deep learning. At *EGU General Assembly 2023*, Vienna, Austria, 2023.
 0. [Time-Consistent Downscaling of Atmospheric Fields with Generative Adversarial Networks](https://events.ecmwf.int/event/294/contributions/3103/attachments/1704/3074/MAELSTROM-WS_Leinonen.pdf). At *MAELSTROM dissemination workshop, online*, 2022.
 0. *Keynote*: Seamlessly nowcasting lightning with convolutional-recurrent deep learning. At *4th European Nowcasting Conference, online*, 2022.
 0. [Stochastic machine learning for atmospheric fields with generative adversarial networks](https://portal.enes.org/community/announcements/ISENES3Workshop20210317JL.pdf). At *Joint IS-ENES3/ESiWACE2 Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling, online*, 2021
