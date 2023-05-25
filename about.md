@@ -181,7 +181,7 @@ In *ERAD 2010, Sibiu, Romania*, 2010. [https://www.erad2010.com/pdf/oral/monday/
 
 ### Other conference talks
 
-0. Seamless prediction of multiple thunderstorm hazards with deep learning. In *ECMWF-ESA Workshop on Machine Learning for Earth Observation and Prediction, Reading, United Kingdom, 2022.
+0. Seamless prediction of multiple thunderstorm hazards with deep learning. In *ECMWF-ESA Workshop on Machine Learning for Earth Observation and Prediction*, Reading, United Kingdom, 2022.
 0. Deep learning based seamless nowcasting of thunderstorm hazards from multi-source data. In *EUMETSAT Meteorological Satellite Conference 2022*, Brussels, Belgium, 2022.
 0. Nowcasting thunderstorm hazards with neural networks from multi-source data. In *ERAD 2022*, Locarno, Switzerland, 2022.
 0. Improvements to short-term weather prediction with recurrent-convolutional networks. In *2021 IEEE International Conference on Big Data*, 2021.
@@ -236,8 +236,7 @@ At *University of Cologne, Cologne, Germany*, Oct 2015
 At *McGill University, Montreal, Quebec, Canada*, Nov 2014
 0. What can multi-frequency radars tell us about snowflake microstructure? At *University of Wisconsin, Madison, Wisconsin, USA*, Aug 2013
 0. What can multi-frequency radars tell us about snowflake microstructure? At *Jet Propulsion Laboratory, California Institute of Technology, Pasadena, California, USA*, Aug 2013
-0. J. Leinonen. Inferring atmospheric vertical profiles from observations and vehicle responses. At
-Summer course: The Exploration of Mars, *Complutense University, Madrid, Spain*, Jul 2009
+0. Inferring atmospheric vertical profiles from observations and vehicle responses. At Summer course: The Exploration of Mars, *Complutense University, Madrid, Spain*, Jul 2009
 {: reversed="reversed"}
 
 ### Posters presented
