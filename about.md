@@ -54,6 +54,7 @@ Advisors: Prof. Risto Nieminen (Aalto University) and Dr. Timo Nousiainen (Unive
 
 ### Journal articles
 
+0. A. Carpentieri, D. Folini, **J. Leinonen** and A. Meyer. Extending intraday solar forecast horizons with deep generative models. *Applied Energy*, **377**, 124186, 2025. doi:[10.1016/j.apenergy.2024.124186](https://doi.org/10.1016/j.apenergy.2024.124186)
 0. N. Rombeek, **J. Leinonen** and U. Hamann. Exploiting radar polarimetry for nowcasting thunderstorm hazards using deep learning. *Natural Hazards and Earth System Sciences*, **24**, 133–144, 2024. doi:[10.5194/nhess-24-133-2024](https://doi.org/10.5194/nhess-24-133-2024)
 0. N. Maherndl, M. Maahn, F. Tridon, **J. Leinonen**, D. Ori and S. Kneifel. A riming-dependent parameterization of scattering by snowflakes using the self-similar Rayleigh-Gans approximation. *Quarterly Journal of the Royal Meteorological Society*, **149**, 3562–3581, 2023. doi:[10.1002/qj.4573](https://doi.org/10.1002/qj.4573)
 0. **J. Leinonen**, U. Hamann, U. Germann and I. V. Sideris. Thunderstorm nowcasting with deep learning: a multi-hazard data fusion model. *Geophysical Research Letters*, **50**, e2022GL101626, 2023. doi:[10.1029/2022GL101626](https://doi.org/10.1029/2022GL101626)
@@ -163,10 +164,12 @@ In *ERAD 2010, Sibiu, Romania*, 2010. [https://www.erad2010.com/pdf/oral/monday/
 0. A. Battaglia, S. Tanelli, F. Tridon, S. Kneifel, **J. Leinonen**, and P. Kollias. Triple-frequency radar retrievals. In *Satellite Precipitation Measurement*, chapter 13, pages 211–229. Springer, 2020. doi:[10.1007/978-3-030-24568-9_13](https://doi.org/10.1007/978-3-030-24568-9_13)
 {: reversed="reversed"}
 
-### Papers in review
+### ArXiV papers
 
-0. **J. Leinonen**, U. Hamann, D. Nerini, U. Germann and G. Franch. Latent diffusion models for generative precipitation nowcasting with accurate uncertainty quantification. 2023. In review.
-0. J. C. Hardin, N. Guy. **J. Leinonen** and V. Chandrasekar. PyDSD - A Python Library for Working with Disdrometers, Particle Probes, and Drop Size Distribution Data. *Journal of Open Research Software*, 2022. In review.
+
+0. A. Carpentieri, **J. Leinonen**, J. Adie, B. Bonev, D. Folini and F. Hariri. Data-driven surface solar irradiance estimation using neural operators at global scale. https://arxiv.org/abs/2411.08843
+0. **J. Leinonen**, B. Bonev, T. Kurth, and Y. Cohen. Modulated adaptive fourier neural operators for temporal interpolation of weather forecasts. 2024. https://arxiv.org/abs/2410.18904
+0. **J. Leinonen**, U. Hamann, D. Nerini, U. Germann and G. Franch. Latent diffusion models for generative precipitation nowcasting with accurate uncertainty quantification. 2023. https://arxiv.org/abs/2304.12891
 {: reversed="reversed"}
 
 ## Presentations <a name="presentations"></a>
